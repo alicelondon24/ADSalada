@@ -1,0 +1,98 @@
+{
+	"produtos": [
+		{
+			"id": 1,
+			"nome": "Salada Caesar",
+			"descricao": "pedaços de peito de frango grelhado, folhas de alface americana, queijo parmesão, molho caesar e croutons.",
+			"preco": 18.5,
+			"categoria_id": 2
+		},
+		{
+			"id": 2,
+			"nome": "Salada Caprese",
+			"descricao": "Tomate, mussarela de búfala, manjericão e azeite.",
+			"preco": 20.5,
+			"categoria_id": 2
+		},
+		{
+			"id": 3,
+			"nome": "Salada Caesar de salmão defumado",
+			"descricao": "Salmão defumado, folhas de alface americana, queijo parmesão, molho caesar e croutons.",
+			"preco": 22.5,
+			"categoria_id": 2
+		},
+		{
+			"id": 4,
+			"nome": "Cuzcuz Marroquino",
+			"descricao": "Salada de cuzcuz com damasco e nozes.",
+			"preco": 21.5,
+			"categoria_id": 2
+		},
+		{
+			"id": 5,
+			"nome": "Tabule",
+			"descricao": "Salada de trigo de quibe com cebola, tomate, pepino e hortelã",
+			"preco": 20.0,
+			"categoria_id": 2
+		},
+		{
+			"id": 6,
+			"nome": "Água de coco",
+			"descricao": "",
+			"preco": 7.5,
+			"categoria_id": 2
+		},
+		{
+			"id": 7,
+			"nome": "Água",
+			"descricao": "",
+			"preco": 5.5,
+			"categoria_id": 2
+		},
+		{
+			"id": 8,
+			"nome": "Mate Leão",
+			"descricao": "",
+			"preco": 6,
+			"categoria_id": 2
+		},
+		{
+			"id": 9,
+			"nome": "Suco de Caju",
+			"descricao": "",
+			"preco": 7.5,
+			"categoria_id": 2
+		},
+		{
+			"id": 10,
+			"nome": "Suco de Melancia",
+			"descricao": "",
+			"preco": 7.5,
+			"categoria_id": 2
+		},
+		{
+			"id": 11,
+			"nome": "Suco de Laranja",
+			"descricao": "",
+			"preco": 7.5,
+			"categoria_id": 2
+		},
+		{
+			"id": 12,
+			"nome": "Ice Tea",
+			"descricao": "",
+			"preco": 6,
+			"categoria_id": 2
+		}
+	],
+	"categorias": [
+		{
+			"id": 1,
+			"nome": "Saladas"
+		},
+		{
+			"id": 2,
+			"nome": "Bebidas"
+		}
+	]
+}
